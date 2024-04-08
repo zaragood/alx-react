@@ -1,0 +1,22 @@
+/** @format */
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header h1 {
+  color: #d73953;
+}
+.App-header img {
+  width: 200px;
+  height: auto;
+}
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
