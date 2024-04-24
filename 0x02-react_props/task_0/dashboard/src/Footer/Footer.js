@@ -2,7 +2,7 @@
 
 import React from "react";
 import "./Footer.css";
-import { getFooterCopy, getFullYear } from "../utils";
+import { getFooterCopy, getFullYear } from '../utils.js'
 
 function Footer() {
   return (
