@@ -1,5 +1,3 @@
-/** @format */
-
 import React from "react";
 import "./Footer.css";
 import { getFooterCopy, getFullYear } from '../utils.js'
